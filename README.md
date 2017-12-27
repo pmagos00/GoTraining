@@ -1,0 +1,2 @@
+# GoTraining
+Go Training examples
